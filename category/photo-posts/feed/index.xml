@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Photo Posts - Mainak Bhattacharya</title>
+	<atom:link href="/category/photo-posts/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>a picture worth a thousand words</description>
+	<lastBuildDate>Sat, 09 Jul 2022 15:05:08 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+	<item>
+		<title>Tallin</title>
+		<link>/2022/07/09/52/</link>
+					<comments>/2022/07/09/52/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 09 Jul 2022 14:28:18 +0000</pubDate>
+				<category><![CDATA[Photo Posts]]></category>
+		<guid isPermaLink="false">/?p=52</guid>
+
+					<description><![CDATA[<p>new iPhone 13 deals Powered by flickr embed.</p>
+<p>The post <a href="/2022/07/09/52/">Tallin</a> first appeared on <a href="">Mainak Bhattacharya</a>.</p>]]></description>
+										<content:encoded><![CDATA[<iframe style="position: relative; top: 0; left: 0; width: 100%; height: 680px;" src="https://flickrembed.com/cms_embed.php?source=flickr&amp;layout=responsive&amp;input=www.flickr.com/photos/makdee88/albums/72157697713791815&amp;sort=0&amp;by=album&amp;theme=default&amp;scale=fill&amp;speed=3000&amp;limit=500&amp;skin=default&amp;autoplay=true" scrolling="no" frameborder="0" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"><p><a rel="nofollow" href="https://www.foned.co.uk/apple/iphone-13-deals">new iPhone 13 deals</a></p><small>Powered by <a href="https://flickrembed.com/">flickr embed</a>.</small></iframe><script type="text/javascript">function showpics(){var a=$("#box").val();$.getJSON("http://api.flickr.com/services/feeds/photos_public.gne?tags="+a+"&tagmode=any&format=json&jsoncallback=?",function(a){$("#images").hide().html(a).fadeIn("fast"),$.each(a.items,function(a,e){$("<img/>").attr("src",e.media.m).appendTo("#images")})})}</script><p>The post <a href="/2022/07/09/52/">Tallin</a> first appeared on <a href="">Mainak Bhattacharya</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>/2022/07/09/52/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

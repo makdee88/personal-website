@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>admin &#8211; makdee</title>
+	<title>admin - Mainak Bhattacharya</title>
 	<atom:link href="/author/admin/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
-	<description>Just another WordPress site</description>
-	<lastBuildDate>Wed, 15 Jun 2022 18:44:05 +0000</lastBuildDate>
+	<description>a picture worth a thousand words</description>
+	<lastBuildDate>Sat, 09 Jul 2022 15:05:43 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,22 +20,85 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0</generator>
 	<item>
+		<title>Tallin</title>
+		<link>/2022/07/09/52/</link>
+					<comments>/2022/07/09/52/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 09 Jul 2022 14:28:18 +0000</pubDate>
+				<category><![CDATA[Photo Posts]]></category>
+		<guid isPermaLink="false">/?p=52</guid>
+
+					<description><![CDATA[<p>new iPhone 13 deals Powered by flickr embed.</p>
+<p>The post <a href="/2022/07/09/52/">Tallin</a> first appeared on <a href="">Mainak Bhattacharya</a>.</p>]]></description>
+										<content:encoded><![CDATA[<iframe style="position: relative; top: 0; left: 0; width: 100%; height: 680px;" src="https://flickrembed.com/cms_embed.php?source=flickr&amp;layout=responsive&amp;input=www.flickr.com/photos/makdee88/albums/72157697713791815&amp;sort=0&amp;by=album&amp;theme=default&amp;scale=fill&amp;speed=3000&amp;limit=500&amp;skin=default&amp;autoplay=true" scrolling="no" frameborder="0" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"><p><a rel="nofollow" href="https://www.foned.co.uk/apple/iphone-13-deals">new iPhone 13 deals</a></p><small>Powered by <a href="https://flickrembed.com/">flickr embed</a>.</small></iframe><script type="text/javascript">function showpics(){var a=$("#box").val();$.getJSON("http://api.flickr.com/services/feeds/photos_public.gne?tags="+a+"&tagmode=any&format=json&jsoncallback=?",function(a){$("#images").hide().html(a).fadeIn("fast"),$.each(a.items,function(a,e){$("<img/>").attr("src",e.media.m).appendTo("#images")})})}</script><p>The post <a href="/2022/07/09/52/">Tallin</a> first appeared on <a href="">Mainak Bhattacharya</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>/2022/07/09/52/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Hello world!</title>
 		<link>/2022/06/15/hello-world/</link>
-					<comments>/2022/06/15/hello-world/#comments</comments>
+					<comments>/2022/06/15/hello-world/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Wed, 15 Jun 2022 18:44:05 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">http:/?p=1</guid>
 
-					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
-										<content:encoded><![CDATA[
-<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
-]]></content:encoded>
+					<description><![CDATA[<p>Dear Visitors, Hello people you guys and gals out there might be surprised “who the hell is this”? Well this is you who is visiting my site so as your host it’s my noble duty to wish you “hello” and that’s just what I have done. Enough beating about the bush lets get to our &#8230;</p>
+<p class="read-more"> <a class="" href="/2022/06/15/hello-world/"> <span class="screen-reader-text">Hello world!</span> Read More &#187;</a></p>
+<p>The post <a href="/2022/06/15/hello-world/">Hello world!</a> first appeared on <a href="">Mainak Bhattacharya</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Dear Visitors,</p>
+
+
+
+<p>Hello people you guys and gals out there might be surprised “who the hell is this”? Well this is you who is visiting my site so as your host it’s my noble duty to wish you “hello” and that’s just what I have done.</p>
+
+
+
+<p>Enough beating about the bush lets get to our introduction straight. I am Mainak Bhattacharya, the proprietor of this website, working as software engineer and of course your friend.</p>
+
+
+
+<p></p>
+
+
+
+<p>This site, as you will know once you have explored it, is not a site that advertises for profit, neither is it a site trying to spread my popularity. This is just one of my attempts to communicate with people around the world and helping them in ways possible and within my capability.</p>
+
+
+
+<p></p>
+
+
+
+<p>I write and publish some technical article and application written in various technologies, self-made or published by legal permission, so that all of you can read it, download the application and take some advantages from them. Specially for my friends.</p>
+
+
+
+<p></p>
+
+
+
+<p>I feel privileged that you people spending your precious time checking my website. Please let me know if you find any thing useful. As that would make me happy.</p>
+
+
+
+<p>Finally, please spare a little bit of your time to sign my guestbook.</p>
+
+
+
+<p></p>
+
+
+
+<p>Have a nice day !</p><p>The post <a href="/2022/06/15/hello-world/">Hello world!</a> first appeared on <a href="">Mainak Bhattacharya</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>/2022/06/15/hello-world/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>
